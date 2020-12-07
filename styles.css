@@ -36,3 +36,22 @@ abbr {
     cursor: pointer;
     text-decoration: none;
 }
+div#logo a img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: bottom;
+}
+.navli {
+    display: inline-block;
+    font-family: Arial;
+    float: left;
+    height: 30px;
+    line-height: 30px;
+  }
+  
+  #logo {
+    /* margin-top: 10px; */
+    padding-left: 15px;
+    /* bottom: 0; */
+    /* position: relative; */
+  }
